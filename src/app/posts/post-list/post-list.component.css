@@ -1,0 +1,11 @@
+div {
+  width: 50%;
+  margin: auto;
+  padding:20px;
+}
+
+mat-accordion {
+  padding: 20px;
+  margin: 20px;
+}
+
